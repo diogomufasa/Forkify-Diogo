@@ -14,9 +14,9 @@ import 'regenerator-runtime/runtime';
 import { Fraction } from 'fractional';
 import { random } from 'core-js/core/number';
 
-if (module.hot) {
-  module.hot.accept();
-}
+// if (module.hot) {
+//   module.hot.accept();
+// }
 
 //////////////////////////////////////////
 
