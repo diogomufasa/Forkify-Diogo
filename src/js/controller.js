@@ -11,7 +11,7 @@ import { MODAL_CLOSE_SEC, QUERYS } from './config.js';
 // import corejs and regenerator-runtime
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
-import { Fraction } from 'fractional';
+import { async } from 'regenerator-runtime';
 
 if (module.hot) {
   module.hot.accept();
