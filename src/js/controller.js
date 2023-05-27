@@ -12,7 +12,7 @@ import { MODAL_CLOSE_SEC, QUERYS } from './config.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import { Fraction } from 'fractional';
-// import { random } from 'core-js/core/number';
+import { random } from 'core-js/core/number';
 
 if (module.hot) {
   module.hot.accept();

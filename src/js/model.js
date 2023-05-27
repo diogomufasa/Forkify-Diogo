@@ -1,4 +1,4 @@
-// import { random } from 'core-js/core/number';
+import { random } from 'core-js/core/number';
 import { API_URL, KEY, RES_PER_PAGE } from './config';
 import { AJAX } from './helpers';
 
