@@ -153,6 +153,10 @@ const controlTodaysRecipeView = async function () {
   }
 };
 
+document.querySelector('.header__logo').addEventListener('click', function () {
+  window.location.hash = '';
+});
+
 const init = function () {
   window.location.hash = '';
 
