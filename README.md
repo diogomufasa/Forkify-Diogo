@@ -17,5 +17,5 @@ Live at https://forkify-mufasa.netlify.app/
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+  <img src="https://github.com/diogomufasa/forkify-mufasa/blob/main/Screenshot%202023-06-01%20at%2021.25.03.png" width="90%" />
 </p>
