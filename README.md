@@ -14,7 +14,6 @@ Live at https://forkify-mufasa.netlify.app/
 ![](https://img.shields.io/badge/sass-✓-orange.svg)
 ![](https://img.shields.io/badge/JavaScript-✓-orange.svg)
 
-
 # Screenshot
 
 <p align="center">
